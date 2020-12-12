@@ -11,3 +11,8 @@ Voice recordings of tldr for accessibility and other option
 Audio recordings of 'trait swapping' and other points.
 
 
+Misc
+----
+Clear tabs
+Eat tabs
+Take clothe
