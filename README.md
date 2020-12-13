@@ -9,7 +9,8 @@ Street interviews (here with ___ just to check are you ok with being questioned 
 Sliding site (left right) when clicking other links
 Voice recordings of tldr for accessibility and other option
 Audio recordings of 'trait swapping' and other points.
-
+Make vegantips game 'pig escape'.
+Focus on each nutrient/vitamin and debunk false claims with studies on site.
 
 Misc
 ----
